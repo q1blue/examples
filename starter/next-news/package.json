@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "firebase": "^9.17.2",
+    "firebase": "^10.1.0",
     "ms": "^2.1.3",
     "next": "canary",
     "nprogress": "^0.2.0",
