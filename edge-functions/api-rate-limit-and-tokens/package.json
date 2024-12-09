@@ -12,7 +12,7 @@
   "dependencies": {
     "@vercel/examples-ui": "^1.0.5",
     "jose": "^4.13.1",
-    "nanoid": "^4.0.1",
+    "nanoid": "^5.0.9",
     "next": "canary",
     "react": "latest",
     "react-dom": "latest",
