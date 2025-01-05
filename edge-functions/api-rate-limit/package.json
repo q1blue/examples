@@ -13,7 +13,7 @@
     "@upstash/ratelimit": "^0.4.3",
     "@vercel/examples-ui": "^1.0.5",
     "@vercel/kv": "^0.2.2",
-    "next": "canary",
+    "next": "15.1.2",
     "react": "latest",
     "react-dom": "latest"
   },
